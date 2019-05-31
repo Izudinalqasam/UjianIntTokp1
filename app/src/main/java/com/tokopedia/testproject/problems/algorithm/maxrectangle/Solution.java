@@ -24,6 +24,7 @@ public class Solution {
                }
                loopJ++;
             }
+            loopJ = 0;
             loopI++;
         }
 
